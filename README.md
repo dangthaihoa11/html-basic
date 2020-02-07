@@ -1,1 +1,1 @@
-# html-css-basic-2
+# html-css-js-basic-2
